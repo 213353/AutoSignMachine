@@ -41,7 +41,6 @@ docker run \
   --label traefik.enable=false \
   -e enable_unicom=true \
   -e user=131*******12 \
-  -e password=11****11 \
   -e appid=f7af****ebb \
   auto-sign-machine:latest
 ```
